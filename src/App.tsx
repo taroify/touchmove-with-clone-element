@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import "@vant/touch-emulator";
 import Rate from "./rate/Rate";
 import "./App.css";
 import "./rate/Rate.scss"
